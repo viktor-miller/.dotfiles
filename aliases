@@ -1,4 +1,3 @@
 alias artisan="php artisan"
 alias phpunit="php vendor/bin/phpunit"
 alias ll="la -ls"
-alias homestead="cd /volumes/stick/homestead && vagrant"
